@@ -20,6 +20,7 @@ pnpm install
 
 ```sh
 - "/" - Rota padrao
+
 - "/details/:name" - o parametro ":name" e o nome da cidade
 ```
 
