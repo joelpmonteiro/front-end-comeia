@@ -16,6 +16,13 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 pnpm install
 ```
 
+## Rotas do App
+
+```sh
+- "/" -> Rota padrao
+- "/details/:name" -> o parametro ":name" e o nome da cidade
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
